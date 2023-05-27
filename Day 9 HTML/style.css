@@ -1,0 +1,12 @@
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(241, 241, 241);
+}
+button:hover{
+    background-color: rgb(240, 3, 3);
+}
+h1{
+    color: royalblue;
+}
