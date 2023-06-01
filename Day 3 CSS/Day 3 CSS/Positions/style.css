@@ -1,0 +1,30 @@
+/* p{
+    position: static;
+} */
+
+div{
+    display: inline-block ;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+#Box3{
+    position: absolute;
+    height: 100px;
+    left: 50px;
+}
+/* #Box1{
+    position: fixed;
+} */
+
+#Box4{
+    position: sticky;
+    top: 0px;
+    
+}
+.wrapper{
+    height: 2000px;
+    width: 100vw;
+    background-color: yellow;
+}
