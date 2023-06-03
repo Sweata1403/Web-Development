@@ -31,7 +31,7 @@
 
 }
 .forground{
-    transform: translateZ(-20px) scale(3);
+    transform: translateZ(-20px) scale(4);
     position: absolute;
     height: 40%;
     width: 40%;
